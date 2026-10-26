@@ -1,0 +1,8 @@
+# Obsidian: estado local de la interfaz (no compartir)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
